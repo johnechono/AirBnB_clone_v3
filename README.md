@@ -156,7 +156,3 @@ No known bugs at this time.
 ## Authors
 Echono John Inalegwu - [Github](https://github.com/johnechono)
 Olayinka Bolarinwa - [Github](https://github.com/boolayinka)
-
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
